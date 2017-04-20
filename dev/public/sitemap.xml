@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/product/</loc>
+    <lastmod>2017-04-20T10:05:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2017-04-19T21:23:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2017-04-19T21:23:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/q2/</loc>
+    <lastmod>2017-04-19T14:40:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ranking/</loc>
+    <lastmod>2017-04-19T14:26:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-04-20T10:05:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
